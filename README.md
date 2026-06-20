@@ -19,6 +19,7 @@ O objetivo é criar um modelo teórico através de simulação numérica que uti
 ## Planejamento
 - [ ] Descrever a teoria por trás do experimento no README
 - [ ] Descrever a metodologia do experimento no README
+- [x] Tratamento dos dados do Phyphox
 - [ ] Fazer o simluador em si
 - [ ] Fazer um manual de uso.
 
